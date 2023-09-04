@@ -8,17 +8,10 @@
  */
 
 configuration {
-<<<<<<< HEAD
 	font:							"JuliaMono 12";
     show-icons:                     true;
 	icon-theme: 					"Papirus";
     display-drun: 					"󰥔";
-=======
-	font:							"Iosevka Nerd Font 10";
-    show-icons:                     true;
-	icon-theme: 					"Papirus";
-    display-drun: 					"";
->>>>>>> origin
     drun-display-format:            "{name}";
     disable-history:                false;
     fullscreen:                     false;
@@ -54,11 +47,7 @@ textbox-prompt-colon {
 	background-color: 				@al;
 	text-color: 					@ac;
 	expand: false;
-<<<<<<< HEAD
 	str: "󰥔 ";
-=======
-	str: "";
->>>>>>> origin
 	font:							"feather 12";
 }
 

@@ -6,9 +6,5 @@
   bga:  #0a0a0aFF;
   fg:   #f5f5f5FF;
   ac:   #1e88e5FF;
-<<<<<<< HEAD
   se:   #1e88e555;
-=======
-  se:   #1e88e51A;
->>>>>>> origin
 }
